@@ -1,0 +1,14 @@
+artifact_uri: /opt/airflow/mlruns/462594312294129313/0fccb9d4a0e643b4ab0101b0b3be9f50/artifacts
+end_time: 1749499941026
+entry_point_name: ''
+experiment_id: '462594312294129313'
+lifecycle_stage: active
+run_id: 0fccb9d4a0e643b4ab0101b0b3be9f50
+run_name: colorful-cow-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749499910952
+status: 3
+tags: []
+user_id: root
